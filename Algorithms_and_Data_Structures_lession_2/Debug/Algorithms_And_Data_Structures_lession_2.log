@@ -1,0 +1,4 @@
+﻿  Main.c
+E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_2\Algorithms_And_Data_Structures_lession_2\Main.c(13,21): warning C4013: grade: нет определения; предполагается "extern" с возвратом типа "int"
+E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_2\Algorithms_And_Data_Structures_lession_2\Main.c(18,1): warning C4142: "grade": неопасное переопределение типа
+  Algorithms_And_Data_Structures_lession_2.vcxproj -> E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_2\Algorithms_And_Data_Structures_lession_2\Debug\Algorithms_And_Data_Structures_lession_2.exe
