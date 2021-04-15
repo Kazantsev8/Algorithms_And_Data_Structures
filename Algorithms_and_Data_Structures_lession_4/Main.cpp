@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Домашнее задание 4 урок. Казанцев Иван.
+//задание 2
 int main() {
     int n, current1, maxF = 0, currentCount = 0, maxCount = 1, prev;
     cout << "How many elements your array will have?: ";
@@ -30,4 +32,6 @@ int main() {
         cout << i << " ";
 
     return 0;
+
+
 }

@@ -1,2 +1,3 @@
-﻿  Main.cpp
-  Algorithms_and_Data_Structures_lession_4.vcxproj -> E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_4\x64\Debug\Algorithms_and_Data_Structures_lession_4.exe
+﻿  Main.c
+E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_4\Main.c(20,36): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_4\Main.c(20,57): warning C4312: приведение типов: преобразование из "int" в "int **" большего размера
