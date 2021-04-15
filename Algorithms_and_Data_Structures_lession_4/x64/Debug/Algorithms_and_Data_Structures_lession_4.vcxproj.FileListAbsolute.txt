@@ -1,0 +1,2 @@
+E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_4\x64\Debug\Algorithms_and_Data_Structures_lession_4.exe
+E:\Geekbrains\Algorithms And Data Structures\Algorithms_and_Data_Structures_lession_4\x64\Debug\Algorithms_and_Data_Structures_lession_4.pdb
